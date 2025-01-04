@@ -1,5 +1,5 @@
 # Graph2Tree Model for Symbolic Mathematics
-![](https://github.com/khanmhmdi/GTE-TLD/blob/main/Architecture.png)
+![](https://github.com/khanmhmdi/GTE-TLD/blob/main/arch.png)
 
 ## Overview
 
